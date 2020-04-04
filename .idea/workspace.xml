@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a43d28d-7b86-4fcc-9d3e-eb1115ab7c8b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/aws-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/aws-frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/aws-frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/aws-frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/aws-frontend/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/aws-frontend/src/index.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/aws-frontend" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZoerS0d4A7xtl9zYA2Snoo7H60" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="UploadImageAwsApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.uploadimageaws.UploadImageAwsApplication" />
+      <module name="upload-image-aws" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.uploadimageaws.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UploadImageAwsApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a43d28d-7b86-4fcc-9d3e-eb1115ab7c8b" name="Default Changelist" comment="" />
+      <created>1585510072418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585510072418</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="300" key="#com.intellij.ide.util.MemberChooser" timestamp="1585515639445">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="765" y="300" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1200/1920.432.1366.768@0.0.1920.1200" timestamp="1585515639445" />
+    <state width="1877" height="332" key="GridCell.Tab.0.bottom" timestamp="1586029383876">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1877" height="332" key="GridCell.Tab.0.bottom/0.0.1920.1200/1920.432.1366.768@0.0.1920.1200" timestamp="1586029383876" />
+    <state width="1877" height="332" key="GridCell.Tab.0.center" timestamp="1586029383876">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1877" height="332" key="GridCell.Tab.0.center/0.0.1920.1200/1920.432.1366.768@0.0.1920.1200" timestamp="1586029383876" />
+    <state width="1877" height="332" key="GridCell.Tab.0.left" timestamp="1586029383876">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1877" height="332" key="GridCell.Tab.0.left/0.0.1920.1200/1920.432.1366.768@0.0.1920.1200" timestamp="1586029383876" />
+    <state width="1877" height="332" key="GridCell.Tab.0.right" timestamp="1586029383876">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1877" height="332" key="GridCell.Tab.0.right/0.0.1920.1200/1920.432.1366.768@0.0.1920.1200" timestamp="1586029383876" />
+    <state width="1877" height="410" key="GridCell.Tab.1.bottom" timestamp="1586025394375">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1877" height="410" key="GridCell.Tab.1.bottom/0.0.1920.1200/1920.432.1366.768@0.0.1920.1200" timestamp="1586025394375" />
+    <state width="1877" height="410" key="GridCell.Tab.1.center" timestamp="1586025394375">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1877" height="410" key="GridCell.Tab.1.center/0.0.1920.1200/1920.432.1366.768@0.0.1920.1200" timestamp="1586025394375" />
+    <state width="1877" height="410" key="GridCell.Tab.1.left" timestamp="1586025394375">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1877" height="410" key="GridCell.Tab.1.left/0.0.1920.1200/1920.432.1366.768@0.0.1920.1200" timestamp="1586025394375" />
+    <state width="1877" height="410" key="GridCell.Tab.1.right" timestamp="1586025394375">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1877" height="410" key="GridCell.Tab.1.right/0.0.1920.1200/1920.432.1366.768@0.0.1920.1200" timestamp="1586025394375" />
+    <state x="461" y="242" key="SettingsEditor" timestamp="1585515793458">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="461" y="242" key="SettingsEditor/0.0.1920.1200/1920.432.1366.768@0.0.1920.1200" timestamp="1585515793458" />
+    <state x="655" y="423" key="com.intellij.ide.util.TipDialog" timestamp="1585874520076">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="655" y="423" key="com.intellij.ide.util.TipDialog/0.0.1920.1200/1920.432.1366.768@0.0.1920.1200" timestamp="1585874520076" />
+    <state x="760" y="337" width="540" height="497" key="extract.method.dialog" timestamp="1586015019159">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="760" y="337" width="540" height="497" key="extract.method.dialog/0.0.1920.1200/1920.432.1366.768@0.0.1920.1200" timestamp="1586015019159" />
+    <state x="702" y="218" key="refactoring.ChangeSignatureDialog" timestamp="1585512699802">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="702" y="218" key="refactoring.ChangeSignatureDialog/0.0.1920.1200/1920.432.1366.768@0.0.1920.1200" timestamp="1585512699802" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/uploadimageaws/controller/UserProfileController.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
