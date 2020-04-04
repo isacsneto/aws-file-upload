@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#### Para rodar o projeto utilize os seguintes comandos no diretorio do projeto: 'npm i', e depois 'npm start'
+#### Para rodar o projeto utilize os seguintes comandos no diretorio do frontend: 'npm i', e depois 'npm start'
 #### Use o seguinte link para acessar a aplicação: http://localhost:3000
 #### ou utilize as instruções abaixo.
 
