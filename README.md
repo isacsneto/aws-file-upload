@@ -6,3 +6,5 @@ deposite suas credenciais(accessKey e secretKey) no arquivo src/main/resources/a
 Após isso você pode rodar a api com os seguintes comandos:
 1. mvn clean install
 2. java -jar target/upload-image-aws-0.0.1-SNAPSHOT.jar
+
+Para rodar o frontend do projeto acesse:[Frontend](src/main/aws-img-upload-frontend)
