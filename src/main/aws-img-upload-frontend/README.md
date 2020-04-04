@@ -1,8 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##BR-readme
-#Para rodar o projeto utilize o seguinte comando no diretorio do projeto: npm start
-#Use o seguinte link para acessar a aplicação: http://localhost:3000
+Para rodar o projeto utilize o seguinte comando no diretorio do projeto: npm start
+Use o seguinte link para acessar a aplicação: http://localhost:3000
 
 ## Available Scripts
 
