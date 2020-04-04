@@ -1,14 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##BR-readme
+#Para rodar o projeto utilize o seguinte comando no diretorio do projeto: npm start
+#Use o seguinte link para acessar a aplicação: http://localhost:3000
+
 ## Available Scripts
 
 In the project directory, you can run:
 
-#Para rodar o projeto utilize o seguinte comando no diretorio do projeto:
 ### `yarn start`
 
 Runs the app in the development mode.<br />
-#User o link abaixo para acessar a aplicação.
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
